@@ -1,4 +1,5 @@
 # Learning_in_Cohort
 learning web dev cohort with Hitesh Choudhary and Piyush Garg
 
-==Restarting the course.==
+>[!NOTE]
+>Reviving from new
